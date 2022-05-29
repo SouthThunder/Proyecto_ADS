@@ -1,4 +1,4 @@
-t package co.edu.javeriana.proyecto_ads;
+package co.edu.javeriana.proyecto_ads;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
